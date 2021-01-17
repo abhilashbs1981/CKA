@@ -1,4 +1,4 @@
-This is a solution to the Certified Kubernetes Administrator Practice Test for Backup and Restore of ETCD Clust within a Kubernetes set up with kubeadm
+This is a solution to the Certified Kubernetes Administrator Practice Test for Backup and Restore of ETCD Clust within a Kubernetes set up with kubeadm .
 
 ## 1. Get etcdctl utility if it's not already present.
 
